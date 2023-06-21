@@ -5,7 +5,7 @@ import Script from './src/Examples/Script';
 
 export default function App() {
   return (
-   <Script />
+   <WebSite />
   );
 }
 
